@@ -12,8 +12,9 @@ int main() {
             if (rev < INT_MIN / 10 || (rev == INT_MIN / 10 && lastdigit < -8)) return 0;
             rev = rev * 10 + lastdigit;
             x = x / 10;
-        }
+        } 
     cout<<"reversve "<< rev;
     return 0;
 }
+
 
