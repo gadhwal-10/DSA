@@ -13,6 +13,7 @@ int main() {
             rev = rev * 10 + lastdigit;
             x = x / 10;
         }
-    cout<<"reversve "<<rev;
+    cout<<"reversve "<< rev;
     return 0;
 }
+
