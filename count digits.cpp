@@ -10,6 +10,7 @@ int digitCount(int n) {
     }
     return cnt;
 }
+
 int main() {
     int n;
     cout << "Enter a number: ";
@@ -17,4 +18,6 @@ int main() {
     int result = digitCount(n);
     cout << "Number of digits: " << result << endl;
     return 0;
+    
 }
+
