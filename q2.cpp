@@ -1,3 +1,5 @@
+//time complexity - O(log n)
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -16,5 +18,6 @@ int main() {
     cout<<"reversve "<< rev;
     return 0;
 }
+
 
 
