@@ -1,4 +1,4 @@
-// time complexity - o(log n)
+// time complexity - O(log n)
 
 
 #include <bits/stdc++.h>
@@ -22,6 +22,7 @@ int main() {
     return 0;
     
 }
+
 
 
 
