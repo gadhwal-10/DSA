@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int n;
     cout << "Enter size of array: ";
-    cin >> n;
+    cin >> n; 
 
     vector<int> nums(n);
     cout << "Enter elements: ";
